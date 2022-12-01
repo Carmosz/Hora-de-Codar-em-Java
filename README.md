@@ -1,7 +1,7 @@
 # Hora-de-Codar-em-Java
-Atividade elaborada pelo Instituto PROA, em aula de Java.
+*Atividade elaborada pelo Instituto PROA, em aula de Java.
 
-1 - Baby Steps
+- 1 - Baby Steps
 Escreva um programa em Java e crie uma variável chamada "Planeta" e atribua-a um valor "Plutão". 
 Exiba o valor para o usuário.
 
