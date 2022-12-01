@@ -1,4 +1,4 @@
-# Hora-de-Codar-em-Java
+# Hora de Codar em Java
 *Atividade elaborada pelo Instituto PROA, em aula de Java.*
 
 - 1 - Baby Steps
